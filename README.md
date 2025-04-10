@@ -1,7 +1,7 @@
 # Hi, I'm Alex Stoner!
 
 ## About Me
-I am a Software Engineering major interested in software development and cybersecurity. I have been learning about different types of software development including web development.
+I am a Cybersecurity Engineering major at Iowa State. I have been learning about different types of software development including web development.
 
 
 ## Languages 
